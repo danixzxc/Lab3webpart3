@@ -1,0 +1,46 @@
+<organization>
+    <department>
+        <deptNo>D01</deptNo>
+        <deptName>ACCOUNTING</deptName>
+        <location>NEW YORK</location>
+        <employees>
+            <employee>
+                <empNo>E01</empNo>
+                <empName>Tom</empName>
+                <managerNo></managerNo>
+            </employee>
+            <employee>
+                <empNo>E02</empNo>
+                <empName>Mary</empName>
+                <managerNo>E01</managerNo>
+            </employee>
+            <employee>
+                <empNo>E03</empNo>
+                <empName>John</empName>
+                <managerNo></managerNo>
+            </employee>
+        </employees>
+    </department>
+    <department>
+        <deptNo>D02</deptNo>
+        <deptName>PIFPAF</deptName>
+        <location>MOSCOW</location>
+        <employees>
+            <employee>
+                <empNo>E01</empNo>
+                <empName>PETYA</empName>
+                <managerNo></managerNo>
+            </employee>
+            <employee>
+                <empNo>E02</empNo>
+                <empName>PETYA</empName>
+                <managerNo>E01</managerNo>
+            </employee>
+            <employee>
+                <empNo>E03</empNo>
+                <empName>PETYA</empName>
+                <managerNo></managerNo>
+            </employee>
+        </employees>
+    </department>
+</organization>

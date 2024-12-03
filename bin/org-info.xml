@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <orgNo>111</orgNo>
+    <orgName>TOP</orgName>
+    <orglocation>BREST</orglocation>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>ACCOUNTING2</deptName>
+            <location>BOSTON</location>
+            <employees>
+                <employee>
+                    <empNo>E09</empNo>
+                    <empName>BOBYK</empName>
+                </employee>
+                <employee>
+                    <empNo>E00</empNo>
+                    <empName>BOBY</empName>
+                    <managerNo>E05</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>BOB</empName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organization>
